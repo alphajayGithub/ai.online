@@ -1,0 +1,3 @@
+[submodule "submodules/GreedyAIAcademy/Machine-Learning"]
+	path = submodules/GreedyAIAcademy/Machine-Learning
+	url = https://github.com/GreedyAIAcademy/Machine-Learning.git
