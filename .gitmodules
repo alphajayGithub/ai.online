@@ -1,6 +1,6 @@
 [submodule "submodules/GreedyAIAcademy/Machine-Learning"]
 	path = submodules/GreedyAIAcademy/Machine-Learning
-	url = https://github.com/GreedyAIAcademy/Machine-Learning.git
+	url = git@github.com:GreedyAIAcademy/Machine-Learning.git
 [submodule "submodules/3b1b/manim"]
 	path = submodules/3b1b/manim
 	url = git@github.com:3b1b/manim.git
