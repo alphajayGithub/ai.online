@@ -7,3 +7,6 @@
 [submodule "submodules/3b1b/videos"]
 	path = submodules/3b1b/videos
 	url = git@github.com:3b1b/videos.git
+[submodule "submodules/100-Days-Of-ML-Code"]
+	path = submodules/100-Days-Of-ML-Code
+	url = git@github.com:Avik-Jain/100-Days-Of-ML-Code.git
