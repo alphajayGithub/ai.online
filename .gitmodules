@@ -10,3 +10,6 @@
 [submodule "submodules/100-Days-Of-ML-Code"]
 	path = submodules/100-Days-Of-ML-Code
 	url = git@github.com:Avik-Jain/100-Days-Of-ML-Code.git
+[submodule "submodules/utils/free-programming-books"]
+	path = submodules/utils/free-programming-books
+	url = git@github.com:EbookFoundation/free-programming-books.git
