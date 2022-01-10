@@ -13,3 +13,6 @@
 [submodule "submodules/utils/free-programming-books"]
 	path = submodules/utils/free-programming-books
 	url = git@github.com:EbookFoundation/free-programming-books.git
+[submodule "submodules/DeepLearning-500-questions"]
+	path = submodules/DeepLearning-500-questions
+	url = git@github.com:scutan90/DeepLearning-500-questions.git
