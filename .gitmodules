@@ -16,3 +16,6 @@
 [submodule "submodules/DeepLearning-500-questions"]
 	path = submodules/DeepLearning-500-questions
 	url = git@github.com:scutan90/DeepLearning-500-questions.git
+[submodule "submodules/machine_learning_derivation"]
+	path = submodules/machine_learning_derivation
+	url = git@github.com:ws13685555932/machine_learning_derivation.git
