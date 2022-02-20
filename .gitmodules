@@ -19,3 +19,6 @@
 [submodule "submodules/machine_learning_derivation"]
 	path = submodules/machine_learning_derivation
 	url = git@github.com:ws13685555932/machine_learning_derivation.git
+[submodule "submodules/d2l-zh"]
+	path = submodules/d2l-zh
+	url = git@github.com:d2l-ai/d2l-zh.git
