@@ -22,3 +22,6 @@
 [submodule "submodules/d2l-zh"]
 	path = submodules/d2l-zh
 	url = git@github.com:d2l-ai/d2l-zh.git
+[submodule "submodules/Machine-learning-learning-notes"]
+	path = submodules/Machine-learning-learning-notes
+	url = git@github.com:Vay-keen/Machine-learning-learning-notes.git
