@@ -25,3 +25,12 @@
 [submodule "submodules/Machine-learning-learning-notes"]
 	path = submodules/Machine-learning-learning-notes
 	url = git@github.com:Vay-keen/Machine-learning-learning-notes.git
+[submodule "submodules/liHang/lihang-code"]
+	path = submodules/liHang/lihang-code
+	url = git@github.com:fengdu78/lihang-code.git
+[submodule "submodules/liHang/Lihang"]
+	path = submodules/liHang/Lihang
+	url = git@github.com:SmirkCao/Lihang.git
+[submodule "submodules/liHang/Statistical-Learning-Method_Code"]
+	path = submodules/liHang/Statistical-Learning-Method_Code
+	url = git@github.com:Dod-o/Statistical-Learning-Method_Code.git
