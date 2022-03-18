@@ -34,3 +34,6 @@
 [submodule "submodules/liHang/Statistical-Learning-Method_Code"]
 	path = submodules/liHang/Statistical-Learning-Method_Code
 	url = git@github.com:Dod-o/Statistical-Learning-Method_Code.git
+[submodule "submodules/MachineLearning_lawLite19"]
+	path = submodules/MachineLearning_lawLite19
+	url = git@github.com:lawlite19/MachineLearning_Python.git
