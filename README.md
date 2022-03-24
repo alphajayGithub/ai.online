@@ -1,2 +1,2 @@
 # ai.online
-practice AI in agile
+practice ML/DL
